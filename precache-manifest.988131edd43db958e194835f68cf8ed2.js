@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/madical/static/js/runtime~main.b6e9b5c3.js"
   },
   {
-    "revision": "64d73d14f8ab4284c13c",
-    "url": "/madical/static/js/main.be5715a1.chunk.js"
+    "revision": "b66b95d836ba01449a9f",
+    "url": "/madical/static/js/main.1cb9591a.chunk.js"
   },
   {
     "revision": "45124f853ba07aa965c0",
     "url": "/madical/static/js/2.6efc73d3.chunk.js"
   },
   {
-    "revision": "64d73d14f8ab4284c13c",
+    "revision": "b66b95d836ba01449a9f",
     "url": "/madical/static/css/main.02ee03b7.chunk.css"
   },
   {
-    "revision": "8d19d635e98e460112d67f09fffd99d3",
+    "revision": "8cfb015e695d404b64a43e3d21173d36",
     "url": "/madical/index.html"
   }
 ];
