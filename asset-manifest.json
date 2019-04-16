@@ -1,14 +1,15 @@
 {
   "main.css": "/madical/static/css/main.02ee03b7.chunk.css",
-  "main.js": "/madical/static/js/main.1cb9591a.chunk.js",
-  "main.js.map": "/madical/static/js/main.1cb9591a.chunk.js.map",
+  "main.js": "/madical/static/js/main.89d1baaa.chunk.js",
+  "main.js.map": "/madical/static/js/main.89d1baaa.chunk.js.map",
   "runtime~main.js": "/madical/static/js/runtime~main.b6e9b5c3.js",
   "runtime~main.js.map": "/madical/static/js/runtime~main.b6e9b5c3.js.map",
-  "static/js/2.6efc73d3.chunk.js": "/madical/static/js/2.6efc73d3.chunk.js",
-  "static/js/2.6efc73d3.chunk.js.map": "/madical/static/js/2.6efc73d3.chunk.js.map",
+  "static/css/2.aa3a5625.chunk.css": "/madical/static/css/2.aa3a5625.chunk.css",
+  "static/js/2.94b12ad5.chunk.js": "/madical/static/js/2.94b12ad5.chunk.js",
+  "static/js/2.94b12ad5.chunk.js.map": "/madical/static/js/2.94b12ad5.chunk.js.map",
   "index.html": "/madical/index.html",
-  "precache-manifest.988131edd43db958e194835f68cf8ed2.js": "/madical/precache-manifest.988131edd43db958e194835f68cf8ed2.js",
+  "precache-manifest.040bd41c9e426ad12daf4959d28f08de.js": "/madical/precache-manifest.040bd41c9e426ad12daf4959d28f08de.js",
   "service-worker.js": "/madical/service-worker.js",
-  "static/css/main.02ee03b7.chunk.css.map": "/madical/static/css/main.02ee03b7.chunk.css.map",
-  "static/media/logo.svg": "/madical/static/media/logo.5d5d9eef.svg"
+  "static/css/2.aa3a5625.chunk.css.map": "/madical/static/css/2.aa3a5625.chunk.css.map",
+  "static/css/main.02ee03b7.chunk.css.map": "/madical/static/css/main.02ee03b7.chunk.css.map"
 }
